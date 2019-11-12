@@ -4,7 +4,7 @@
 
 # Fix: 13-09-2019
 - Fix - The script was pasted when searching for phrases on Google.
-- Add Requirements - pip install -r requirements.txt
+- Add Requirements - pip3 install -r requirements.txt
 
 # Email Extractor Functions
 
@@ -34,7 +34,10 @@
 
 **Update 13-09-2019**
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
+
+start:
+python3 EmailExtractor.py
 
 
 [Extraer correos de paginas web con Python](http://www.pythondiario.com/2018/04/extraer-correos-electronicos-de-paginas.html)
